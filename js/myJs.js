@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: " ",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.messenger.com/t/nguyenhoangphuc1994';
+                   // window.location = 'https://www.messenger.com/t/nguyenhoangphuc1994';
                   }
             })
         }
