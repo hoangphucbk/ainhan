@@ -119,9 +119,9 @@ $('#yes').click(function() {
         if (result.value) {
             Swal.fire({
                 width: 900,
-                confirmButtonText: 'Okiiiii lun <3',
+                confirmButtonText: 'Exit',
                 background: '#fff url("img/iput-bg.jpg")',
-                title: 'Hihi hehe hoho',
+                title: 'Chúc Nhân ngủ ngon nha!!! <3',
                 text: " ",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
