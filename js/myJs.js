@@ -121,7 +121,7 @@ $('#yes').click(function() {
                 width: 900,
                 confirmButtonText: 'Exit',
                 background: '#fff url("img/iput-bg.jpg")',
-                title: 'Chúc Nhân ngủ ngon nha!!! <3',
+                title: 'Chúc bạn Nhân ngủ ngon nha!!! Hihihi <3',
                 text: " ",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
