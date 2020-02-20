@@ -14,7 +14,7 @@ function firstQuestion(){
     
     $('.content').hide();
     Swal.fire({
-        title: 'Xin chào bạn Nhân!',
+        title: 'Xin chào bạn Nhân dễ thương!',
         text: 'Phúc hỏi Nhân phải trả lời thật lòng nha nha!!!',
         imageUrl: 'img/cuteCat.jpg',
         imageWidth: 300,
